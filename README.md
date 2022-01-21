@@ -1,6 +1,7 @@
 # Blob-Detection
 
 ![image](https://user-images.githubusercontent.com/98158660/150569984-814438a9-6e36-4d8d-9a62-d1b5bab57091.png)
+
 Laplacian of Gaussian (LoG)
 
 image source:https://www.freepik.com
