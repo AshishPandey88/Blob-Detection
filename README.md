@@ -5,6 +5,7 @@
 Laplacian of Gaussian (LoG)
 
 image source:https://www.freepik.com
+
 This is an example of application of morphological operations on an image using the concepts of 
 1) Converting an image to Binary
 2) Erosion and Dilution operations to bring out the key features in an image 
