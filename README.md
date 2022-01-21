@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/98158660/150570542-13ff511f-0e26-4f22-9f9b-5813d4edd9ee.png)
 
 
-![image](https://user-images.githubusercontent.com/98158660/150569984-814438a9-6e36-4d8d-9a62-d1b5bab57091.png)
+![image](https://user-images.githubusercontent.com/98158660/150570608-d4023cbb-1b52-4fde-b629-f6a9607b47b5.png)
 
 Laplacian of Gaussian (LoG)
 
